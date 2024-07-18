@@ -1,0 +1,14 @@
+body{
+    background-image: url(./360_F_122827651_CP5EFYCbeFavIvnXa45GxnLgjTAG4Ae7.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+}
+button{
+    color: blue;
+    text-align: center;
+}
+button:hover{
+    background-color: red;
+}
